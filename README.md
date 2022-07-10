@@ -85,17 +85,8 @@
     * You will get the full Source Code of Advanced POS With Inventory Management and build versions for SQL Server and MySQL database provider. 
 
 
-## Buy Now at just $49 with Source Code.
+## Buy Now at just $49 with full source code.
 <br />
-<a class="buy" href="https://1.envato.market/pos" target="_blank">BUY NOW ($49)</a>
-
-<style>
-    .buy {
-        padding: 10px;
-        background: #84c529;
-        border: none;
-        color: white;
-        border-radius: 3px;
-        cursor: pointer;
-    }
-</style>
+<a href="https://1.envato.market/pos" target="_blank">
+    <img src="images/buy-now.png"  alt="Buy Now">
+</a>
