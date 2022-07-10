@@ -21,6 +21,11 @@
     * User Name : employee@gmail.com
     * Password  : employee@123
 
+## Buy Now at just $49 with full source code.
+<a href="https://1.envato.market/pos" target="_blank">
+    <img src="images/buy-now.png"  alt="Buy Now">
+</a>
+
 ## Detailed Feature:
 * **Dahsboard:**
     * Quick Statistics of total sales, purchase, sales return purchase return.
@@ -86,7 +91,6 @@
 
 
 ## Buy Now at just $49 with full source code.
-<br />
 <a href="https://1.envato.market/pos" target="_blank">
     <img src="images/buy-now.png"  alt="Buy Now">
 </a>
