@@ -70,7 +70,6 @@
     * Product Purchase Report
     * Product Sales Report
     * Stock Report
-    * Sales Vs Purchase Report
     * Supplier Payment Report
     * Customer Payment Report
 
